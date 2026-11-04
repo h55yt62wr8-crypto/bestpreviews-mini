@@ -1,6 +1,6 @@
 {
   "name": "bestpreviews-mini",
-  "main": "src/layout-worker.js",
+  "main": "src/screenshot-worker.js",
   "compatibility_date": "2026-11-03",
   "workers_dev": true
 }
